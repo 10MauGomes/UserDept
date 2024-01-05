@@ -1,0 +1,5 @@
+package com.DevGomes.userdept.entities;
+
+public class Departament {
+
+}
