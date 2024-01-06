@@ -1,0 +1,5 @@
+package com.DevGomes.userdept.repositories;
+
+public class UserRepository {
+
+}
